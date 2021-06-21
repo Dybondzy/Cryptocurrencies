@@ -112,6 +112,7 @@ A new DataFrame is created with the same index as the crypto_df DataFrame and ha
 Deliverable 4: Visualizing Cryptocurrencies Results (30 points)
 Deliverable 4 Instructions
 Using your knowledge of creating scatter plots with Plotly Express and hvplot, you’ll visualize the distinct groups that correspond to the three principal components you created in Deliverable 2, then you’ll create a table with all the currently tradable cryptocurrencies using the hvplot.table() function.
+! https://github.com/Dybondzy/Cryptocurrencies/blob/main/crypto_clustering.ipynb
 
 Follow the instructions below and use the information in the crypto_clustering_starter_code.ipynb file to complete Deliverable 4.
 
@@ -155,6 +156,7 @@ A DataFrame is created that contains the clustered_df DataFrame index, the scale
 A hvplot scatter plot is created where the X-axis is "TotalCoinsMined", the Y-axis is "TotalCoinSupply", the data is ordered by "Class", and it shows the CoinName when you hover over the data point (10 pt)
 Submission
 Once you’re ready to submit, make sure to check your work against the rubric to ensure you are meeting the requirements for this Challenge one final time. It’s easy to overlook items when you’re in the zone!
+! https://github.com/Dybondzy/Cryptocurrencies/blob/main/crypto_clustering.ipynb
 
 As a reminder, the deliverables for this Challenge are as follows:
 
@@ -165,5 +167,8 @@ Deliverable 4: Visualizing Cryptocurrencies Results
 Upload the following to your Cryptocurrencies GitHub repository:
 
 Your crypto_clustering.ipynb file.
+! https://github.com/Dybondzy/Cryptocurrencies/blob/main/crypto_clustering.ipynb
+
 A README.md that includes the purpose of the repository and short description of what was accomplished. Although there is no graded written analysis for this challenge, it is encouraged and good practice to add a brief description of your project.
+! https://github.com/Dybondzy/Cryptocurrencies/edit/main/README.md
 To submit your challenge assignment in Canvas, click Submit, then provide the URL of your Cryptocurrencies GitHub repository for grading.
