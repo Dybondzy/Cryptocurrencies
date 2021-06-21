@@ -20,6 +20,7 @@ Files
 Use the following links to download the dataset and Challenge starter code.
 
 Download cryptocurrency data (crypto_data.csv) (Links to an external site.)
+! https://github.com/Dybondzy/Cryptocurrencies/blob/main/crypto_data.csv
 
 Download crypto clustering starter code (Links to an external site.)
 
